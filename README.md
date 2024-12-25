@@ -21,6 +21,9 @@
 - http://uitestingplayground.com/
 - https://testautomationpractice.blogspot.com/
 
+  ![napkin-selection (11)](https://github.com/user-attachments/assets/b0ab79da-c96a-499b-9be7-6906db1b0933)
+
+
 ## Practice API Testing and Automation: 
 
 - https://dog.ceo/dog-api/#google_vignette

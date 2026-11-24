@@ -56,6 +56,7 @@
 - Challenging UI Automation Tasks: https://practice-automation.com/
 - Set of elements used for accessibility tool audit: https://alphagov.github.io/accessibility-tool-audit/test-cases.html#content
 - Weather App: https://weathershopper.pythonanywhere.com/
+- [QA Testing Service – 39+ QA Practice Websites](https://qatestingservice.in/resources): A collection of 39+ demo websites and testing practice environments for learners and QA testers to explore, practice manual testing, and create test cases.
 
 
 -x-x-

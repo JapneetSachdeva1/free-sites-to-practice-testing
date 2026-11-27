@@ -20,6 +20,7 @@
 - A simple coffee ordering app to practice testing: https://coffee-cart.app/
 - http://uitestingplayground.com/
 - https://testautomationpractice.blogspot.com/
+- Sportswear ecommerce store with example tests (Playwright, Cypress, Selenium): https://delta-qa.com/playground/
 
   ![napkin-selection (11)](https://github.com/user-attachments/assets/b0ab79da-c96a-499b-9be7-6906db1b0933)
 
